@@ -1,0 +1,36 @@
+# .gitignore for AWS CDK project with TypeScript
+
+# Ignore CDK generated files
+cdk.out/
+
+# Ignore CDK context file
+cdk.context.json
+
+# Ignore CDK assets directory
+cdk.context-assets/
+
+# Ignore CDK bootstrap script
+cdk-bootstrap/
+
+# Ignore CDK metadata
+cdk.json
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore TypeScript build output
+dist/
+*.tsbuildinfo
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
