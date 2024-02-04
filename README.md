@@ -1,4 +1,4 @@
-# Welcome to your CDK TypeScript project
+# AWS systems manager session manager demo with CDK TypeScript 
 
 This is a blank project for CDK development with TypeScript.
 
